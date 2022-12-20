@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: Config-Dafault
+    name: Config-Dev
 
 
 eureka:
